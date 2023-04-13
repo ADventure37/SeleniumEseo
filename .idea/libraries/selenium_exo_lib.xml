@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="selenium_exo_lib">
+    <CLASSES>
+      <root url="file://$PROJECT_DIR$/../../../ld/selenium_exo_lib" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+    <jarDirectory url="file://$PROJECT_DIR$/../../../ld/selenium_exo_lib" recursive="false" />
+  </library>
+</component>
